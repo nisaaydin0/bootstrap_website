@@ -1,7 +1,7 @@
 # bootstrap_website
 
 Paylaştıkça | Bilgi Paylaştıkça Çoğalır
-
+<hr>
 
 A practice webpage designed with Bootstrap to explore responsive design, navigation, layout structuring, and various Bootstrap components. 
 
@@ -13,7 +13,7 @@ This project showcases different sections like a carousel, team members, gallery
 
 
 Features
-
+<hr>
 
 Responsive Navigation: A collapsible navbar that adjusts to different screen sizes.
 
@@ -35,7 +35,7 @@ Footer: Simple footer with copyright information.
 
 
 Built With
-
+<hr>
 
 HTML
 
